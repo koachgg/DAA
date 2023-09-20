@@ -1,7 +1,9 @@
+# importing libraries 
 import random
 import matplotlib.pyplot as plt
 import numpy as np
 
+# Insertion_sort
 def insertion_sort(arr):
     comparisons = 0
     assignments = 0
@@ -20,7 +22,7 @@ def insertion_sort(arr):
         assignments += 1
 
     return comparisons, assignments
-
+# functionn to generate random data
 def generate_random_data(n):
     return [random.randint(1, 1000) for _ in range(n)]
 
@@ -56,6 +58,7 @@ def run_insertion_sort_experiment(n_values):
 n_values = list(range(10, 101, 5))
 min_comp, max_comp, avg_comp, min_assign, max_assign, avg_assign = run_insertion_sort_experiment(n_values)
 
+# Plottinng the Graph
 plt.figure(figsize=(12, 6))
 
 plt.subplot(2, 2, 1)
