@@ -4,7 +4,7 @@ Design and Analysis of Algorithms Practicals
 
 Programming Assignment 1 Insertion Sort Analysis
 
-Implement Insertion Sort
+## 1. Implement Insertion Sort
 
 Count the number of key comparisons and assignments for various inputs and plot the graph for both of them.
 
