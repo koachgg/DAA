@@ -20,3 +20,6 @@ The program has been implemented in python for the simplicity of creating graph 
 
 
 ## 2. Implement Prims Algorithm
+
+
+## 3. Implement Kruskal Algorithm
