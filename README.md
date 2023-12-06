@@ -17,3 +17,6 @@ n varies from 10 to 100 in steps of 5.
 In the sample data, n is shown to vary from 3 to 5 in step of 1. For each value of n, 3 different sets of data points have been shown.
 
 The program has been implemented in python for the simplicity of creating graph using matplot 
+
+
+## 2. Implement Prims Algorithm
