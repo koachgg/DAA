@@ -6,7 +6,7 @@ MSc Computer Science 1st Semester
 
 Programming Assignment 1 Insertion Sort Analysis
 
-## 1. Implement Insertion Sort
+## [1. Implement Insertion Sort](insertion_sort.py)
 
 Count the number of key comparisons and assignments for various inputs and plot the graph for both of them.
 
@@ -22,8 +22,9 @@ The program has been implemented in python for the simplicity of creating graph 
 ## 
 
 Programming Assignment 2 Prims Algorithm
-## 2. Implement Prims Algorithm
+## [2. Implement Prims Algorithm](prims.cpp)
+
 
 ##
 Programming Assignment 3 Kruskal Algorithm 
-## 3. Implement Kruskal Algorithm
+## [3. Implement Kruskal Algorithm](kruskal.cpp)
