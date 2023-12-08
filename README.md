@@ -1,6 +1,8 @@
 # Design and Analysis of Algorithms
 
-Design and Analysis of Algorithms Practicals
+Design and Analysis of Algorithms Practicals, University of Delhi
+
+MSc Computer Science 1st Semester
 
 Programming Assignment 1 Insertion Sort Analysis
 
@@ -17,9 +19,11 @@ n varies from 10 to 100 in steps of 5.
 In the sample data, n is shown to vary from 3 to 5 in step of 1. For each value of n, 3 different sets of data points have been shown.
 
 The program has been implemented in python for the simplicity of creating graph using matplot 
+## 
 
-
+Programming Assignment 2 Prims Algorithm
 ## 2. Implement Prims Algorithm
 
-
+##
+Programming Assignment 3 Kruskal Algorithm 
 ## 3. Implement Kruskal Algorithm
